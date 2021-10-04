@@ -21,4 +21,3 @@ class KThemeColors {
   static const Color lightGray = Color.fromRGBO(246, 246, 246, 1.0);
   static const Color buttonRed = Color.fromRGBO(255, 119, 119, 0.8);
 }
-
