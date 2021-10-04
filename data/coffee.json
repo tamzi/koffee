@@ -1,15 +1,16 @@
 {
-  "coffees": [{
-    "name": "Affogato",
-    "description": "This is a term that literally means 'drowned'. It is the description of a shot of separately served espresso that is later poured over a the top of a scoop of vanilla ice cream or gelato. This beverage is usually served in a short drink glass and is a Italian desert favourite. Popular Affogatos include Vanilla Affogato, Mocha Affogato, and Peppermint Affogato.",
-    "shop": null,
-    "prices": {
-      "small": null,
-      "medium": null,
-      "large": null,
-      "extra_large": null
-    }
-  },
+  "coffees": [
+    {
+      "name": "Affogato",
+      "description": "This is a term that literally means 'drowned'. It is the description of a shot of separately served espresso that is later poured over a the top of a scoop of vanilla ice cream or gelato. This beverage is usually served in a short drink glass and is a Italian desert favourite. Popular Affogatos include Vanilla Affogato, Mocha Affogato, and Peppermint Affogato.",
+      "shop": null,
+      "prices": {
+        "small": null,
+        "medium": null,
+        "large": null,
+        "extra_large": null
+      }
+    },
     {
       "name": "Americano",
       "description": "Also known as 'Lungo' or 'Long Black' and made by diluting 1-2 shots of espresso with hot water in order to approximate the texture, flavor and body of an American-style drip coffee. Said to have been originally devised as a sort of insult to Americans who wanted their Italian espresso diluted.",
@@ -20,8 +21,8 @@
         "large": null,
         "extra_large": null
       }
-
-    }, {
+    },
+    {
       "name": "Babycino",
       "description": "A cappuccino styled drink served in an up-market café typically for children. It consists of warm milk in a small cup and topped with milk froth and chocolate powder. No espresso coffee essence is added.",
       "shop": null,
@@ -31,8 +32,8 @@
         "large": null,
         "extra_large": null
       }
-
-    }, {
+    },
+    {
       "name": "Breve",
       "description": "A term in Italian that means short and is used to describe an espresso coffee drink made with a half-and-half light cream or semi-skim milk instead of full fat milk",
       "shop": null,
@@ -42,7 +43,8 @@
         "large": null,
         "extra_large": null
       }
-    }, {
+    },
+    {
       "name": "Caffe' Freddo",
       "description": "Chilled, sweetened espresso served in a tall glass, often on ice",
       "shop": null,
@@ -52,8 +54,8 @@
         "large": null,
         "extra_large": null
       }
-
-    }, {
+    },
+    {
       "name": "Caffe Latte or “Latte”",
       "description": "A ‘premium milk coffee experience’. Freshly steamed milk without foam served in a tall glass with a shot of espresso coffee.",
       "shop": null,
@@ -63,8 +65,8 @@
         "large": null,
         "extra_large": null
       }
-
-    }, {
+    },
+    {
       "name": "Caffe Mocha",
       "description": "A combination of chocolate syrup and a shot of espresso, topped with steamed milk and a layer of micro-foam. Finished with a sprinkled of chocolate.",
       "shop": null,
@@ -74,8 +76,8 @@
         "large": null,
         "extra_large": null
       }
-
-    }, {
+    },
+    {
       "name": "Cappuccino Chiaro",
       "description": "(AKA Wet or Light cappuccino): Cappuccino prepared with more milk than usual.",
       "shop": null,
@@ -270,7 +272,6 @@
         "small": null,
         "medium": null,
         "large": null,
-
         "extra_large": null
       }
     },
@@ -412,7 +413,7 @@
       "shop": "Starbucks",
       "prices": {
         "small": 1.85,
-        "medium": 2.10,
+        "medium": 2.1,
         "large": 2.45,
         "extra_large": null
       }
